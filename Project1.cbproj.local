@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022-04-21 22:49:19.678,=C:\Users\ionut\OneDrive\Documente\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022-04-21 22:49:20.091,=C:\Users\ionut\OneDrive\Documente\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022-04-21 22:55:29.775,C:\Users\ionut\OneDrive\Documente\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\ionut\OneDrive\Documente\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2022-04-21 23:37:18.868,=C:\Users\ionut\OneDrive\Documente\Embarcadero\Studio\Projects\arbori.h</Transaction>
+    <Transaction>2022-04-21 23:37:18.932,=C:\Users\ionut\OneDrive\Documente\Embarcadero\Studio\Projects\functii.cpp</Transaction>
+    <Transaction>2022-04-21 23:46:00.962,C:\Users\ionut\OneDrive\Documente\Embarcadero\Studio\Projects\arbori.h=</Transaction>
+    <Transaction>2022-04-21 23:46:42.651,C:\Users\ionut\OneDrive\Documente\Embarcadero\Studio\Projects\functii.cpp=</Transaction>
+    <Transaction>2022-04-21 23:58:51.777,=C:\Users\ionut\OneDrive\Documente\Embarcadero\Studio\Projects\arbori.h</Transaction>
+    <Transaction>2022-04-21 23:58:51.785,=C:\Users\ionut\OneDrive\Documente\Embarcadero\Studio\Projects\functii.cpp</Transaction>
+  </Transactions>
+  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="arbori.h"/>
+    <File Path="functii.cpp"/>
+    <File Path="Project1.cpp"/>
+    <File Path="Project1PCH1.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.fmx"/>
+    <File Path="Unit1.h"/>
+  </ProjectSortOrder>
+</BorlandProject>

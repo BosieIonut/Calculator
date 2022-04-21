@@ -1,0 +1,50 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 276
+  ClientWidth = 385
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object title: TLabel
+    Position.X = 24.000000000000000000
+    Position.Y = 24.000000000000000000
+    Size.Width = 57.000000000000000000
+    Size.Height = 17.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Expresion:'
+    TabOrder = 0
+  end
+  object calculici: TButton
+    Position.X = 297.000000000000000000
+    Position.Y = 232.000000000000000000
+    TabOrder = 1
+    Text = 'Compute'
+    OnClick = calculiciClick
+  end
+  object inp: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 2
+    Position.X = 24.000000000000000000
+    Position.Y = 49.000000000000000000
+    Size.Width = 225.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Rezultate: TListBox
+    Position.X = 24.000000000000000000
+    Position.Y = 79.000000000000000000
+    Size.Width = 225.000000000000000000
+    Size.Height = 130.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    DisableFocusEffect = True
+    DefaultItemStyles.ItemStyle = ''
+    DefaultItemStyles.GroupHeaderStyle = ''
+    DefaultItemStyles.GroupFooterStyle = ''
+    Viewport.Width = 221.000000000000000000
+    Viewport.Height = 126.000000000000000000
+  end
+end
