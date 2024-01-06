@@ -188,3 +188,4 @@ Nod *calculator2(char *s, int *skip)
     *skip = i;
     return operatori->value;
 }
+
